@@ -8,7 +8,7 @@ var ReactDOM = require('react-dom');
 /*//var data type and APP is react element name(variable name)
 //h1(means header),null(designing here we can include CSS file),content to be displayed*/
 //same can be done by JSX
-//var APP=<h1>hello world</h1> this was using JSX format
+
 var Component = function(){
   return(
     <h1> hello prakhar </h1>
